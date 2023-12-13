@@ -1,4 +1,4 @@
-// 主界面
+// 主界面 搜索歌曲 轮播图 四个音乐榜单
 <template>
 	<view class="index">
 		<musicHead title="网易云音乐" :icon="false"></musicHead>
